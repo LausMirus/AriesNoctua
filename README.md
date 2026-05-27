@@ -2,8 +2,9 @@
 "AriesNoctua — a hidden forge of networks, shadows of Linux, vaults of secrets, and the art of security.”
 
 
-Aries-Noctua is a private home lab designed for learning, experimentation, and managing personal infrastructure. The lab focuses on multiple areas of IT and cybersecurity, including:
-
+Aries-Noctua is a private home lab designed for learning, experimentation, and managing personal infrastructure. The lab focuses on multiple areas of IT and cybersecurity, 
+<details>
+ <summary>including:</summary>
 Networking: Configuring and testing secure network setups.
 
 Linux Systems: Practicing Linux administration, commands, and scripting.
@@ -15,6 +16,7 @@ Web Hosting: Deploying and maintaining self-hosted web services.
 Cybersecurity Practice: Testing security setups, penetration testing, and learning defensive techniques.
 
 The lab provides a safe, self-contained environment for hands-on learning, experimentation, and skill development in real-world IT systems.
+</details>
 
 ___
 
@@ -43,3 +45,6 @@ ___
 5. Create Shared Folder
 6. Fix Ownership
 7. Set Permissions
+___
+
+### Ububtu Setup <b>
