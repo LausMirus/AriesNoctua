@@ -24,7 +24,7 @@ ___
 ### FINAL ARCHITECTURE
 ```
 Ubuntu Server
- ├── Static IP (Tailscale virtual IP)
+ ├── Static IP (virtual IP)
  ├── SSH
  ├── Samba
  ├── Shared Folder
