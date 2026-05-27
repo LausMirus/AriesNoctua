@@ -64,4 +64,5 @@ Install Ubuntu OS in any old (potato) pc<br/>
  ```sudo nano /etc/netplan/01-network-manager-all.yaml``` <br>
  you can use any other text editor rather than nano <br>
 * then add this [netplan](./Netplan.yaml) code and save it.<br>
-* apply the netplan config using the command :-<br>```sudo netplan apply```
+* apply the netplan config using the command :-<br>```sudo netplan apply```<br>
+* verify the ip using ``` ip a ```.
