@@ -15,3 +15,18 @@ Web Hosting: Deploying and maintaining self-hosted web services.
 Cybersecurity Practice: Testing security setups, penetration testing, and learning defensive techniques.
 
 The lab provides a safe, self-contained environment for hands-on learning, experimentation, and skill development in real-world IT systems.
+
+___
+
+### FINAL ARCHITECTURE
+
+Ubuntu Server
+ ├── Static IP (Tailscale virtual IP)
+ ├── SSH
+ ├── Samba
+ ├── Shared Folder
+ ├── CX access
+ └── Tailscale VPN
+___
+
+### 
