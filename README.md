@@ -30,4 +30,16 @@ Ubuntu Server
 ```
 ___
 
-### 
+## step-by-step guide to setup Server 
+---
+1. Ubuntu setup
+2. Configure Wifi
+  * Setup static ip
+  * Netplan config
+  * Apply config
+  * verify config
+3. config SSH
+4. Config Samba
+5. Create Shared Folder
+6. Fix Ownership
+7. Set Permissions
