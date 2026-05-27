@@ -57,9 +57,9 @@ Install Ubuntu OS in any old (potato) pc<br/>
   - Avoid full software installation
   - Only install essential net-tools and utils...
  
-### **2. Config Wifi** 
- * to find current network interface 
- ``` ip a ``` 
-* to setup static ip and disable DHCP, type the command below in terminal 
- ```sudo nano /etc/netplan/01-network-manager-all.yaml``` 
- you can use any other text editor rather than nano 
+### **2. Config Wifi** <br>
+ * to find current network interface <br>
+ ``` ip a ``` <br>
+* to setup static ip and disable DHCP, type the command below in terminal <br>
+ ```sudo nano /etc/netplan/01-network-manager-all.yaml``` <br>
+ you can use any other text editor rather than nano <br>
