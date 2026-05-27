@@ -2,7 +2,9 @@
 "AriesNoctua — a hidden forge of networks, shadows of Linux, vaults of secrets, and the art of security.”
 
 
-Aries-Noctua is a private home lab designed for learning, experimentation, and managing personal infrastructure. The lab focuses on multiple areas of IT and cybersecurity,<details><summary>including:</summary>
+Aries-Noctua is a private home lab designed for learning, experimentation, and managing personal infrastructure. The lab focuses on multiple areas of IT and cybersecurity,
+<details>
+ <summary> Including: </summary>
 
 Networking: Configuring and testing secure network setups.
 
