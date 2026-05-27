@@ -19,14 +19,15 @@ The lab provides a safe, self-contained environment for hands-on learning, exper
 ___
 
 ### FINAL ARCHITECTURE
-
+```
 Ubuntu Server
- ├── Static IP (Tailscale virtual IP). 
- ├── SSH. 
- ├── Samba. 
- ├── Shared Folder. 
- ├── CX access. 
- └── Tailscale VPN. 
+ ├── Static IP (Tailscale virtual IP)
+ ├── SSH
+ ├── Samba
+ ├── Shared Folder
+ ├── CX access
+ └── Tailscale VPN
+```
 ___
 
 ### 
