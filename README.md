@@ -52,7 +52,8 @@ ___
 
 Install Ubuntu OS in any old (potato) pc
 while Booting Ubuntu OS make sure that :-
- _ Use Ububtu LTS version
- _ Baremetal installation required
- _ avoid full software installation
+  - Use Ububtu LTS version
+  - Baremetal installation required
+  - Avoid full software installation
+  - Only install essential net tools and utils...
  
