@@ -34,10 +34,10 @@ ___
 ---
 1. Ubuntu setup
 2. Configure Wifi
-   _ Setup static ip
-   _ Netplan config
-   _ Apply config
-   _ verify config
+_ Setup static ip
+_ Netplan config
+_ Apply config
+_ verify config
 3. config SSH
 4. Config Samba
 5. Create Shared Folder
