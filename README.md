@@ -48,4 +48,11 @@ ___
 7. Set Permissions
 ___
 
-### Ububtu Setup <b>
+### Ubuntu Setup <br>
+
+Install Ubuntu OS in any old (potato) pc
+while Booting Ubuntu OS make sure that :-
+ _ Use Ububtu LTS version
+ _ Baremetal installation required
+ _ avoid full software installation
+ 
