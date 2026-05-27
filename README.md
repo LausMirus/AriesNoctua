@@ -48,12 +48,18 @@ ___
 7. Set Permissions
 ___
 
-### Ubuntu Setup <br>
+### **1. Ubuntu Setup** <br/>
 
-Install Ubuntu OS in any old (potato) pc<br>
+Install Ubuntu OS in any old (potato) pc<br/>
 **while Booting Ubuntu OS make sure that** :-
   - Use Ubuntu LTS version
   - Baremetal installation required
   - Avoid full software installation
   - Only install essential net-tools and utils...
  
+### **2. Config Wifi** <br/>
+ _ to find current network interface
+ ``` ip a ```<br/>
+ _ to setup static ip and disable DHCP, type the command below in terminal
+ ```sudo nano /etc/netplan/01-network-manager-all.yaml```
+ you can use any other text editor rather than nano
