@@ -50,8 +50,8 @@ ___
 
 ### Ubuntu Setup <br>
 
-Install Ubuntu OS in any old (potato) pc
-while Booting Ubuntu OS make sure that :-
+Install Ubuntu OS in any old (potato) pc<br>
+**while Booting Ubuntu OS make sure that** :-
   - Use Ububtu LTS version
   - Baremetal installation required
   - Avoid full software installation
