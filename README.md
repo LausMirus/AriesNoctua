@@ -66,3 +66,8 @@ Install Ubuntu OS in any old (potato) pc<br/>
 * then add this [netplan](./Netplan.yaml) code and save it.<br>
 * apply the netplan config using the command :-<br>```sudo netplan apply```<br>
 * verify the ip using ``` ip a ```.
+___
+### **3.Install and config SSH**<br>
+* **Before installing SSH , update your system using the command** ```sudo apt update```.<br>
+* then install ssh ```sudo apt install openssh-server -y```<br>
+* then check the SSH service using the command ```sudo systemctl status ssh```<br>
