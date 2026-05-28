@@ -75,7 +75,7 @@ ___
 ___
 
 ### **4. Install and config Samba**<br>
-* for installing samba, use the command```sudo apt install samba -y``<br>
+* for installing samba, use the command ```sudo apt install samba -y```<br>
 ___
 ### **5. Creating a NAS-style dir** <br>
 * ```sudo mkdir -p /srv/nas```<br>
