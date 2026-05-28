@@ -70,4 +70,6 @@ ___
 ### **3.Install and config SSH**<br>
 * **Before installing SSH , update your system using the command** ```sudo apt update```.<br>
 * then install ssh ```sudo apt install openssh-server -y```<br>
-* then check the SSH service using the command ```sudo systemctl status ssh```<br>
+* then check the SSH service ,using the command ```sudo systemctl status ssh```<br>
+* check your ssh service is active ```ssh username@host_ip```
+* 
