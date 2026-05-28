@@ -67,9 +67,16 @@ Install Ubuntu OS in any old (potato) pc<br/>
 * apply the netplan config using the command :-<br>```sudo netplan apply```<br>
 * verify the ip using ``` ip a ```.
 ___
-### **3.Install and config SSH**<br>
+### **3. Install and config SSH**<br>
 * **Before installing SSH , update your system using the command** ```sudo apt update```.<br>
 * then install ssh ```sudo apt install openssh-server -y```<br>
 * then check the SSH service ,using the command ```sudo systemctl status ssh```<br>
-* check your ssh service is active ```ssh username@host_ip```
-* 
+* check your ssh service is active ```ssh username@host_ip```<br>
+___
+
+### **4. Install and config Samba**<br>
+* for installing samba, use the command```sudo apt install samba -y``<br>
+___
+### **5. Creating a NAS-style dir** <br>
+* ```sudo mkdir -p /srv/nas```<br>
+* **make sure that premission for the NAS is correct, for fixing the permission use the command** ```sudo chown -R username:username /full/path/of/the/NAS``` ***replace the username and path with your username and path***.<br>
