@@ -92,3 +92,6 @@ ___
 * ```curl -fsSL https://tailscale.com/install.sh | sh``` use this command to install tailscale<br>
 * after install,up the service```sudo tailscale up```<br><br>
  ***now check the ip of tailscale0 interface and use that ip for secure remote login from anywhere***
+
+  ___
+  
